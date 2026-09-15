@@ -3,62 +3,64 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**University of Southern California**, Los Angeles, CA  
+M.S. in Analytics, 2025–present
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**University of Toronto**, Toronto, ON  
+Honours Bachelor of Science with Distinction, Mathematics with its Applications (Specialist) and Physics (Major), 2021–2025
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Research Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**University of Southern California — Research Assistant**  
+2025–present
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**David Kempe — Algorithmic Game Theory & Computational Social Choice**
+
+- Study algorithmic decision-making, voting, and liquid democracy using optimization and graph-based formulations.
+- Analyze metric distortion and robustness of voting systems, including lower-bound constructions for STV under voter misinformation.
+- Apply linear-programming duality, flow techniques, and combinatorial constructions to derive theoretical guarantees.
+
+**John Gunnar Carlsson — Combinatorial Optimization & Algorithm Design**
+
+- Study approximation algorithms for clustering, NP-hard graph problems, and stable matching.
+- Analyze structural properties of discrete optimization problems and develop algorithms with provable guarantees.
+
+**Satish Kumar Thittamaranahalli — Optimization & Numerical Methods**
+
+- Develop quadratic-programming formulations for numerical solution of ordinary differential equations.
+- Use Bézier curve parameterizations and Laplace-transform-based methods to study stability and convergence.
+
+# Publication
+
+**Cheng, T., Gao, Z., Ma, Y., Ning, Y., & Xu, J.** (2020). *A Study on Nice Open Covers in Constructive Analysis*. arXiv:2009.02727. [arXiv](https://arxiv.org/abs/2009.02727)
+
+# Industry Experience
+
+**Eikon Therapeutics — Software Engineer & Computational Modeling Intern**  
+May 2026–present
+
+- Develop probabilistic models and inference algorithms for biological image analysis using Bayesian methods in JAX and NumPyro.
+- Implement and benchmark variational inference, variational EM, MCMC, and Gibbs sampling methods.
+- Develop optimization methods for image-tracking pipelines using image fingerprinting and the Lin–Kernighan heuristic.
+
+**QuantSC — Quantitative Researcher / Project Lead**  
+September 2025–present
+
+- Develop statistical and machine-learning pipelines for financial time-series forecasting and systematic trading.
+- Design pairs-trading strategies using LSTM models and k-means clustering to identify correlated assets and lead–lag relationships.
+
+**Dalian Commodity Exchange — Data Analyst Intern**  
+May–July 2024
+
+- Conduct quantitative analysis of multi-asset futures and build time-series and regression models on more than ten years of market data.
+- Automate data-ingestion and statistical-analysis pipelines for trading and risk-management research.
+
+# Technical Skills
+
+**Programming:** Python, C++, Go, Java, TypeScript, Solidity  
+**Scientific Computing:** JAX, NumPyro, NumPy, Pandas, SciPy, NetworkX, Gurobi  
+**Methods:** Bayesian inference, variational inference, MCMC, numerical optimization, linear programming, graph algorithms, approximation algorithms
