@@ -15,7 +15,7 @@ My current research at USC focuses on algorithmic decision-making and voting, in
 
 ### Algorithmic Game Theory & Computational Social Choice
 
-With **Prof. David Kempe**, I study algorithmic decision-making and computational social choice. Current work examines **metric distortion of voting rules**, including lower-bound constructions for **Single Transferable Vote (STV)** when voters may be misinformed about preferences. I use combinatorial constructions, linear programming duality, flow arguments, and structural analysis of voting procedures to derive theoretical guarantees.
+With **Prof. David Kempe**, I study algorithmic decision-making and computational social choice. Current work examines **metric distortion of voting rules**, and investigates how classical distortion guarantees change under this model. I use combinatorial constructions, linear programming duality, flow arguments, and structural analysis of voting procedures to derive theoretical guarantees for upper and lower bounds.
 
 ### Combinatorial Optimization & Algorithms
 
