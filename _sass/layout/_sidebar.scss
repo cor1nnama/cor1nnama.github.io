@@ -326,6 +326,7 @@
 @media (min-width: 1024px) {
   .sidebar {
     width: 25%;
+    margin-right: 0;
     position: sticky;
     top: 2rem;
     align-self: flex-start;
