@@ -5,6 +5,11 @@ permalink: /cv/
 author_profile: true
 ---
 
+<p>
+  <a href="/files/Corinna_Ma_CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
+  <a href="/files/Corinna_Ma_CV.docx" class="btn">Download CV (Word)</a>
+</p>
+
 # Education
 
 **University of Southern California**, Los Angeles, CA  
